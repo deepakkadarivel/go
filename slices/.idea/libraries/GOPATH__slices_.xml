@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;slices&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/mck/src/git.periscope-solutions.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/mck/src/git.periscope-solutions.com" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
